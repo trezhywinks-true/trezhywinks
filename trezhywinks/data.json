@@ -9,7 +9,8 @@
       "jpeg": "https://raw.githubusercontent.com/trezhywinks-true/trezhywinks/refs/heads/main/trezhywinks/IMG_5409.jpeg",
       "banner": "https://raw.githubusercontent.com/trezhywinks-true/trezhywinks/refs/heads/main/trezhywinks/IMG_5409.jpeg",
       "links": {
-        "github" : "https://github.com/trezhywinks-true"
+        "github": "https://github.com/trezhywinks-true",
+        "repo-git": "https://github.com/trezhywinks-true/trezhywinks/tree/main"
       }
     }
   ]
